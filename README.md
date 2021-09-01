@@ -9,3 +9,5 @@ Remember to:
 * be respectful
 * don't add junk
 * etc etc
+
+I am now making some changes
